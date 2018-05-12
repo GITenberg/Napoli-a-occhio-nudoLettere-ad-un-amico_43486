@@ -1,0 +1,28 @@
+_repo: Napoli-a-occhio-nudoLettere-ad-un-amico_43486
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43486-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fucini, Renato
+    birthdate: 1843
+    deathdate: 1921
+    gutenberg_agent_id: '42249'
+    url: http://www.gutenberg.org/2009/agents/42249
+description: ''
+gutenberg_bookshelf: IT Viaggi
+gutenberg_issued: '2013-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43486'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fucini, Renato, 1843-1921'
+- !lcsh 'Naples (Italy) -- Description and travel'
+- !lcc 'DG'
+title: 'Napoli a occhio nudo: Lettere ad un amico'
+url: http://www.gutenberg.org/ebooks/43486
