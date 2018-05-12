@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42249'
     url: http://www.gutenberg.org/2009/agents/42249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43486#Napoli-a-occhio-nudoLettere-ad-un-amico
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2013-08-16'
 gutenberg_type: Text
